@@ -1,6 +1,7 @@
-# sell
+# Want to Eat
 
-> sell app
+> app
+>Based on vue-cli, vue-router, vue-resource and webpack
 
 ## Build Setup
 
@@ -13,6 +14,8 @@ npm run dev
 
 # build for production with minification
 npm run build
+node prod.server.js
+(run at localhost:8900)
 
 # build for production and view the bundle analyzer report
 npm run build --report
