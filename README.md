@@ -6,6 +6,9 @@
 ## Build Setup
 
 ``` bash
+#clone 
+git clone https://github.com/HannahRen/WantToEat.git
+
 # install dependencies
 npm install
 
