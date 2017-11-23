@@ -1,7 +1,7 @@
 # Want to Eat
 
-> app
->Based on vue-cli, vue-router, vue-resource and webpack
+>Meal ordering app
+>based on vue-cli, vue-router, vue-resource and webpack
 
 ## Build Setup
 
