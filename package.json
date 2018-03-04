@@ -2,7 +2,7 @@
   "name": "sell",
   "version": "1.0.0",
   "description": "sell app",
-  "author": "HannahRen <yuehanren2015@gmail.com>",
+  "author": "HannahRen",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
