@@ -23,7 +23,6 @@
           return
         }
         if (!this.food.count) {
-          // 属性不存在时，需要调用set接口，设置不存在的属性
           Vue.set(this.food, 'count', 1)
         } else {
           this.food.count++

@@ -1,5 +1,5 @@
 /*
- * 解析url参数
+ * separate url parameters
  * @example ?id=12345&a=b
  * @return Object {id:12345,a:b}
  */

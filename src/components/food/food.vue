@@ -169,7 +169,7 @@
       position: relative
       width: 100%
       height: 0
-      // 使图片撑满整个屏幕
+      // make background picture cover the whole screen
       padding-top: 100%
       img
         position: absolute

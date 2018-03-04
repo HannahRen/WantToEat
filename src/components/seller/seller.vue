@@ -142,7 +142,6 @@
           return
         }
         this.favorite = !this.favorite
-        // 将收藏记住
         saveToLocal(this.seller.id, 'favorite', this.favorite)
       }
     },
